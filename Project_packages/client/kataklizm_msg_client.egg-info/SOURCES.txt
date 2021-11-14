@@ -1,0 +1,6 @@
+setup.py
+kataklizm_msg_client.egg-info/PKG-INFO
+kataklizm_msg_client.egg-info/SOURCES.txt
+kataklizm_msg_client.egg-info/dependency_links.txt
+kataklizm_msg_client.egg-info/requires.txt
+kataklizm_msg_client.egg-info/top_level.txt

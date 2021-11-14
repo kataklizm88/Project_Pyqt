@@ -1,0 +1,2 @@
+2021-10-18 21:41:52,839 DEBUG decos.py Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__
+2021-10-18 21:41:52,840 DEBUG client.py Args loaded
